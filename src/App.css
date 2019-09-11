@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+  }
+  
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .container {
+    padding: 0 1rem;
+  }
+  
+  .btn {
+    display: inline-block;
+    border: none;
+    background: #555;
+    color: #fff;
+    padding: 7px 20px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background: #666;
+  }
+
+  .item-div {
+    display: flex;
+    padding: 15px;
+    background-color: #ccc;
+    border: 0.2px rgb(173, 173, 173) solid;
+  }
+
+  .checkbox {
+    margin-right: 5px;
+    margin-top: 3px;
+    height: 20px;
+    width: 20px;
+  }
+
+  .dlt-btn {
+    text-decoration: none;
+    background: red;
+    height: 25px;
+    width: 50px;
+    padding: 10px;
+    border-radius: 7%;
+    padding-top: 4px;
+    padding-left: 3px;
+  }
+
+  .item-txt {
+    width: 80%;
+    margin-bottom: 5px;
+    margin-right: 5px;
+  }
+
+  /* Media queries */
+
+  @media(min-width: 600px) {
+    .App {
+      width: 100%;
+    }
+    .container {
+      width: 80%;
+      margin-left: 10%;
+    }
+    .dlt-btn {
+      margin-left: 5%;
+    }
+  }
+
+  @media(min-width: 992px) {
+    .App {
+      width: 100%;
+    }
+    .container {
+      width: 50%;
+      margin-left: 25%;
+    }
+    .dlt-btn {
+      margin-left: 5%;
+    }
+  }

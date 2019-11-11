@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/todo-deploy/static/css/main.62fb3c60.chunk.css",
+    "main.css": "/todo-deploy/static/css/main.110c1b7c.chunk.css",
     "main.js": "/todo-deploy/static/js/main.3806a1dd.chunk.js",
     "main.js.map": "/todo-deploy/static/js/main.3806a1dd.chunk.js.map",
     "runtime~main.js": "/todo-deploy/static/js/runtime~main.62cd571d.js",
@@ -8,8 +8,8 @@
     "static/js/2.8a6d9bb0.chunk.js": "/todo-deploy/static/js/2.8a6d9bb0.chunk.js",
     "static/js/2.8a6d9bb0.chunk.js.map": "/todo-deploy/static/js/2.8a6d9bb0.chunk.js.map",
     "index.html": "/todo-deploy/index.html",
-    "precache-manifest.bcc3cd69f1f8f9131a4638144cdf695f.js": "/todo-deploy/precache-manifest.bcc3cd69f1f8f9131a4638144cdf695f.js",
+    "precache-manifest.dc9486c548c70b304ffd8b5783687c8e.js": "/todo-deploy/precache-manifest.dc9486c548c70b304ffd8b5783687c8e.js",
     "service-worker.js": "/todo-deploy/service-worker.js",
-    "static/css/main.62fb3c60.chunk.css.map": "/todo-deploy/static/css/main.62fb3c60.chunk.css.map"
+    "static/css/main.110c1b7c.chunk.css.map": "/todo-deploy/static/css/main.110c1b7c.chunk.css.map"
   }
 }
